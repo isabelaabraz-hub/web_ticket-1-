@@ -108,14 +108,14 @@ Exemplo: `251126-SP001-A3F9` (26/11/2025, Senha Prioritária nº 1, código A3F9
 ### Tempo Médio de Atendimento
 - **SP (Prioritária)**: 15 minutos
 - **SG (Geral)**: 5 minutos
-- **SE (Especial)**: 1 minuto (95%) ou 5 minutos (5%)
+- **SE (Exames)**: 1 minuto (95%) ou 5 minutos (5%)
 
 ### Rodízio de Atendimento
 O sistema segue a ordem: **SP → SE → SG → SP → SE → SG...**
 
 Isso garante que:
 - Senhas prioritárias sejam atendidas com frequência
-- Senhas especiais (rápidas) sejam intercaladas
+- Senhas Exames (rápidas) sejam intercaladas
 - Senhas gerais não fiquem muito tempo esperando
 
 ## 👥 Equipe
