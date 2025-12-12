@@ -39,7 +39,7 @@ Sistema desenvolvido para gerenciar filas de atendimento com três tipos de senh
 1. Clone o repositório:
 ```bash
 git clone https://github.com/isabelaabraz-hub/web_ticket.git
-cd web_ticket
+cd web_ticket(1)
 ```
 
 2. Instale as dependências:
